@@ -1,0 +1,18 @@
+#div1{
+    background-color: lawngreen;
+    height: 30vh;
+    width: 30vh;
+    margin: auto;
+    margin-top: 25%;
+    
+    
+}
+#div1:hover{
+    transform: translatey(-5%);
+    transition: 1s ease-in-out alternate ;
+}
+.animate__bounce{
+    background-color: lawngreen;
+    height: 30vh;
+    width: 30vh;
+}
